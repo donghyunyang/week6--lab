@@ -1,2 +1,2 @@
-# week-4-lab
-week 4 lab
+# week-6-lab
+week 6 lab
